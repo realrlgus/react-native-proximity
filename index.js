@@ -1,5 +1,3 @@
-"use strict";
-
 import { DeviceEventEmitter, NativeModules, Platform } from "react-native";
 
 const { RNProximity } = NativeModules;
